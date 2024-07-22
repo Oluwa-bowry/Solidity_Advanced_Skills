@@ -13,7 +13,7 @@
 - __Function Name:__
     -  `Stake`
 - **Block Explorer Link:**
-    -  [Fetch.ai Staking Contract on Etherscan](https://etherscan.io/address/0x1234567890abcdef1234567890abcdef12345678#code)
+    -  [Fetch.ai Staking Contract on Etherscan](https://etherscan.io/address/0x351bac612b50e87b46e4b10a282f632d41397de2)
 - **Function Code:**
 ```solidity
 function stake(uint256 amount) public {
